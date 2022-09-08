@@ -1,3 +1,3 @@
 export interface IHeader {
-  imageSrc?: string;
+  imageSrc: string;
 }

@@ -1,5 +1,8 @@
+import Header from "../../components/Header";
+import { imageSrc } from "../../utils/constants";
+
 const NasaCuorisity = () => {
-  return <div>hola desde nasa</div>;
+  return <Header imageSrc={imageSrc} />;
 };
 
 export default NasaCuorisity;

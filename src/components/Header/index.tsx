@@ -1,4 +1,5 @@
 import { IHeader } from "./interface";
+import "./styles.css";
 
 const Header = ({ imageSrc }: IHeader) => {
   return (
